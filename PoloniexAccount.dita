@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Untitled">
+    <title>Creating a Poloniex Account</title>
+    <shortdesc>How to create a <xref href="https://poloniex.com/" format="html" scope="external"
+            >Poloniex</xref> account to exchange Bitcoin (BTC), Ethereum (ETH), or Litecoin (LTC)
+        from <xref href="CoinbaseAccount.dita#task_sdj_vr4_vbb">your Coinbase account</xref> for
+        other digital currencies. </shortdesc>
+    <prolog>
+        <critdates>
+            <created date="2017-11-11"/>
+        </critdates>
+    </prolog>
+    <taskbody>
+        <prereq id="prereq_mpx_ls4_vbb">Completing the following instructions will require:<ol
+                id="ol_ah1_ns4_vbb">
+                <li>A personal computer <b>with Internet access</b>.</li>
+                <li>A smartphone with either a valid SIM card and <b>active phone number</b>, or with<b>
+                        <xref
+                            href="https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice&amp;hl=en"
+                            format="html" scope="external">the Googe Voice app</xref>
+                    </b>installed to provide you a <b>valid phone number</b>, with the <xref
+                        href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&amp;hl=en"
+                        format="html" scope="external"><b>Google Authenticator</b></xref> app also
+                    installed.</li>
+            </ol><p/></prereq>
+        <context>After completing this task, you will have an account on Poloniex, a online market
+            for digital currency exchange. You will have the option to can transfer Bitcoin (BTC),
+            Ethereum (ETH), or Litecoin (LTC) from <xref
+                href="CoinbaseAccount.dita#task_sdj_vr4_vbb">your Coinbase account</xref> to your
+            Poloniex account, allowing you to trade one digital currency for another without using
+            local currencies as transaction intermediaries.  <p/></context>
+        <steps>
+            <step>
+                <cmd>Use your preferred Internet browser to navigate to <xref
+                        href="https://poloniex.com/" format="html" scope="external"
+                    >Poloniex</xref>.</cmd>
+            </step>
+            <step>
+                <cmd>Select "Create an Account" at the center of the page.<image
+                        href="Poloniex%20create%20account.png" id="image_zc1_21q_vbb"/></cmd>
+            </step>
+            <step>
+                <cmd>Read Poloniex's <xref href="https://poloniex.com/terms/" format="html"
+                        scope="external">Terms of Use</xref>.</cmd>
+            </step>
+            <step>
+                <cmd>Enter your name, country of resident, phone number, email address, and password
+                    into the felds shown below: <image href="polo%20account%201.png"
+                        id="image_avm_y1q_vbb"/></cmd>
+            </step>
+            <step>
+                <cmd>After filling in these fields, click "Create Account."</cmd>
+            </step>
+            <step>
+                <cmd>Once you've submitted the form, Poloniex will send you an email containing a
+                    link to verify your account. Go ahead and log into your new account, open the
+                    email from Poloniex, and click the link inside: <image href="polo%202.png"
+                        id="image_zhk_gdq_vbb"/></cmd>
+            </step>
+            <step>
+                <cmd>After clicking the link in Poloniex's confirmation email, you will have
+                    finished creating your Poloniex account. </cmd>
+            </step>
+            <step>
+                <cmd>Log in to your newly-created Poloniex account. Once logged in, you sould see a
+                    four icons on the right of the site header.</cmd>
+            </step>
+            <step>
+                <cmd>Select the wrench icon. From the icon's dropdown menu, select "My
+                        Profile"<image href="polo%203.png" id="image_ccs_n2q_vbb"/></cmd>
+            </step>
+            <step>
+                <cmd>In order to better guarantee the safety of your Poloniex account (and to
+                    increase your account's daily withdrawal limit), select and complete the "My
+                    Profile" from the dopdown menu shown above<image href="polo%204.png"
+                        id="image_pc2_xgq_vbb"/></cmd>
+            </step>
+            <step>
+                <cmd>After completing your user profile, return once more to the website header, and
+                    select the wrench icon to the immediate left of the icon you selected in Step 9.
+                    From the dropdown menu, select "Two-Factor Authentication":<image
+                        href="polo%205.png" id="image_qkr_zjq_vbb"/></cmd>
+            </step>
+            <step>
+                <cmd>You will arrive at the Coinbase page for Two-Factor Authentication, shown
+                        below:<image href="polo%206.png" id="image_e5x_xlq_vbb"/>. </cmd>
+            </step>
+            <step>
+                <cmd>As you see on the right of this page, Poloniex has produced a 16-digit key that
+                    will allow you to access your Poloniex account if, for example, you lost your
+                    phone, or if for any other reason two-factor authentication becomes unavailable.
+                    Save this key in case of emergencies.</cmd>
+            </step>
+            <step>
+                <cmd>Fill in the forms on the left of Poloniex's Two-Factor Authentication site,
+                    using the email and password with which you registered your account. Move on to
+                    the next step to produce the required code.</cmd>
+            </step>
+            <step>
+                <cmd>Open the <xref
+                        href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&amp;hl=en"
+                        format="html" scope="external">Google Authenticator</xref> app on your
+                    mobile device.</cmd>
+            </step>
+            <step>
+                <cmd>Select the icon of three vertical dots in the upper right corner, and select
+                    "Add Account."</cmd>
+            </step>
+            <step>
+                <cmd>Under "Add Account," select "Other account (Google, Facebook, etc.)."</cmd>
+            </step>
+            <step>
+                <cmd>Your phone will display the view of its front-facing camera, with lines
+                    representing the corners of a box laid over the camera's image. </cmd>
+            </step>
+            <step>
+                <cmd>Fit the QR code displayed on Poloniex's Two-Factor Authentication page within
+                    the lines imposed over the view of your front-facing camera.</cmd>
+            </step>
+            <step>
+                <cmd>With a few moments, Google Authenticator will automatically add Poloniex to its
+                    registry, and (beneath a secondary header entitled "Poloniex") display a
+                    six-digit code that renews itself every thirty seconds.</cmd>
+            </step>
+            <step>
+                <cmd>Input this six-digit code into Poloniex's Two-Factor Authentication form. If
+                    you have inputted the code before it renewed itself, you should see the
+                    following page as confrmation:<image href="polo%207.png" id="image_zvk_p4q_vbb"
+                    /></cmd>
+            </step>
+            <step>
+                <cmd>Congratulations! You have created and secured your Poloniex account. You may
+                    now transfer digital currencies from your Coinbase account (or from any other
+                    account holding digital currencies) to your Poloniex account, and begin trading
+                    these on the Poloniex market.</cmd>
+            </step>
+            <stepsection>
+                <p/>
+            </stepsection>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="CoinbaseAccount.dita#task_sdj_vr4_vbb"/>
+        <link href="TransferringCurrencies.dita#task_fj1_d54_vbb"/>
+    </related-links>
+</task>

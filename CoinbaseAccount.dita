@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_sdj_vr4_vbb">
+    <title>Creating a Coinbase Account</title>
+    <shortdesc>How to create a Coinbase account ("wallet") to store your Bitcoin (BTC), Ethereum
+        (ETH), or Litecoin (LTC). </shortdesc>
+    <prolog>
+        <critdates>
+            <created date="2017-11-11"/>
+        </critdates>
+    </prolog>
+    <taskbody>
+        <prereq id="prereq_mpx_ls4_vbb">To create a Coinbase account you will need:<ol
+                id="ol_ah1_ns4_vbb">
+                <li>A personal computer <b>with Internet access</b>.</li>
+                <li>A smartphone with either a valid SIM card and <b>active phone number</b>, or
+                    with the Googe Voice app installed to provide you a <b>valid phone
+                    number</b>.</li>
+            </ol></prereq>
+        <context>
+            <p>After competing this task, you will have a secure Coinbase account you can use to
+                buy, sell, or transfer digital currencies. </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open your Internet browser.</cmd>
+            </step>
+            <step>
+                <cmd>Visit <xref href="https://www.coinbase.com/" format="html" scope="external"
+                    /></cmd>
+            </step>
+            <step>
+                <cmd>Select "<xref href="https://www.coinbase.com/signup" format="html"
+                        scope="external">Sign Up</xref>" in page's the upper-right corner.</cmd>
+            </step>
+            <step>
+                <cmd>Review Coinbase's <xref href="https://www.coinbase.com/legal/user_agreement"
+                        format="html" scope="external">User Agreement</xref> and <xref
+                        href="https://www.coinbase.com/legal/privacy" format="html" scope="external"
+                        >Privacy Policy</xref>.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the requested information on the Coinbase Sign Up form: <image
+                        href="coinbase%20signup.png" id="image_smp_51p_vbb"/></cmd>
+            </step>
+            <step>
+                <cmd>Click "Create Account."</cmd>
+            </step>
+            <step>
+                <cmd>The Coinbase website will direct you to a confirmation page with the following
+                    information: <image href="coinbase%20confirm.png" id="image_lvv_tdp_vbb"/></cmd>
+            </step>
+            <step>
+                <cmd>Open the inbox of the email address you gave while registering for your
+                    Coinbase account.</cmd>
+            </step>
+            <step>
+                <cmd>Locate the email entitled "Please Verify Your Email Address" from
+                    no-reply@coinbase.com.</cmd>
+            </step>
+            <step>
+                <cmd>Click the link inside, which will redirect you to the Coinbase website.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the type of your Coinbase account (personal or business).<image
+                        href="coinbase-accountdetails.png" id="image_sbs_5fp_vbb"/></cmd>
+            </step>
+            <step>
+                <cmd>Click "Create Account."</cmd>
+            </step>
+            <step>
+                <cmd>After choosing your type of Coinbase account, you will arrive at a page asking
+                    you to enter your local phone number, which Coinbase will use for two-step
+                    verification at login and, in certain circumstances, verifying its customer's
+                    desire to perform a transaction that Coinbase finds supicious.<image
+                        href="coinbase%20phone%20verification.png" id="image_e2r_mhp_vbb"/></cmd>
+            </step>
+            <step>
+                <cmd>After entering your phone number to help secure your Coinbase account, you will
+                    next connect your bank account, debit card, or credit card to your Coinbase
+                    account. This will allow you to buy Bitcoin using your local currency, or to
+                    sell your Bitcoin in exchange for its value in local currency.<image
+                        href="coinbase%20bank%20link.png" id="image_ymg_cjp_vbb"/>.</cmd>
+            </step>
+            <step>
+                <cmd>In order to verify your personal identity, and therefore your ownership of the
+                    bank account, debit card, or credit card you provided, Coinbase will redirect
+                    you to a page asking you to upload a copy of your passport, driver's license, or
+                    other photo identification in order to confirm your identity. (Note: you may
+                    skip this or any following steps and still possess a Coinbase account, but you
+                    cannot buy, sell, or transfer Bitcoin until after having completed Steps
+                        15-24.)<image href="coinbase%20id%20verify.png" id="image_ibm_pkp_vbb"
+                    /></cmd>
+            </step>
+            <step>
+                <cmd>Coinbase will provide you with two options for uploading these documents, using
+                    either a webcam or a smartphone camera<image href="coinbase%20webcam.png"
+                        id="image_sxr_vlp_vbb"/>.</cmd>
+            </step>
+            <step>
+                <cmd>If you chose "Mobile Camera" as your upload method, Coinbase will send a text
+                    message to the phone number you provided earlier containing a link that will
+                    lead you to the following screen, at which you can upload your
+                        identification:<image href="coinbase%20mobile%20pload.png"
+                        id="image_h4x_tmp_vbb"/>:</cmd>
+            </step>
+            <step>
+                <cmd>After having uploaded your documents (either via webcam or mobile upload), and
+                    assuming these documents contain no discrepancies, Coinbase will display the
+                    following image to confirm that your identity has been successfully
+                        verified:<image href="coinbase%20verif%20success.png" id="image_hgh_znp_vbb"
+                    />.</cmd>
+            </step>
+            <step>
+                <cmd>With your identity verified, you can now select your preferred payment method
+                    for performing transactions between your traditional bank accounts and your
+                    Coinbase account, thereby exchanging traditional currency for digital
+                        currency:<image href="coinbase%20preferred%20payment.png"
+                        id="image_gfd_krp_vbb"/>
+                </cmd>
+            </step>
+            <step>
+                <cmd>After selecting your preferred payment method, log in to the bank account for
+                    that preferred method. Coinbase will make a pair of deposits into your chosen
+                    bank account, which will appear under that bank account's "Pending
+                    Transactions." <image href="coinbase%20test%20deposits.png"
+                        id="image_jvb_vsp_vbb"/></cmd>
+            </step>
+            <step>
+                <cmd>Click "Start Charge Verification."</cmd>
+            </step>
+            <step>
+                <cmd>Visit the bank account representing your preferred payment method.</cmd>
+            </step>
+            <step>
+                <cmd>Provide Coinbase with the amount of each deposit listed in your bank account's
+                    "Pending Transactions." Below you will find an example of how these deposits may
+                        appear:<image href="coinbase%20test%20example.png" id="image_xj5_mtp_vbb"
+                    /></cmd>
+            </step>
+            <step>
+                <cmd>When you have received these deposits in your bank account's "Pending
+                    Transactions," return to Coinbase. The site will ask you to verify the last two
+                    digits of these deposits from your account's "Pending Transactions":<image
+                        href="coinbase%20deposit%20confirm.png" id="image_i3c_p5p_vbb"/></cmd>
+            </step>
+            <step>
+                <cmd>Click "Verify Charge Numbers."</cmd>
+            </step>
+            <step>
+                <cmd>You can now use Coinbase to transfer local currency from your traditional bank
+                    account in exchange for Bitcoin, Ethereum, or Litecoin, which you may buy, sell,
+                    or use <xref href="TransferringCurrencies.dita#task_fj1_d54_vbb">alternative
+                        payment methods</xref>. </cmd>
+            </step>
+            <stepsection>
+                <p/>
+            </stepsection>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="PoloniexAccount.dita#Untitled"/>
+        <link href="TransferringCurrencies.dita#task_fj1_d54_vbb"/>
+    </related-links>
+</task>

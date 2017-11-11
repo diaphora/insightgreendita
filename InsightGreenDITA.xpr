@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="19.1">
+    <meta>
+        <filters directoryPatterns="" filePatterns="InsightGreenDITA.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options>
+            <serialized version="19.1" xml:space="preserve">
+                <serializableOrderedMap>
+                    <entry>
+                        <String>enable.project.master.files.support</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                </serializableOrderedMap>
+            </serialized>
+        </options>
+    </meta>
+    <projectTree name="InsightGreenDITA.xpr">
+        <folder masterFiles="true" name="Master Files">
+            <file name="coinbase%20bank%20link.png"/>
+            <file name="coinbase%20confirm.png"/>
+            <file name="coinbase%20deposit%20confirm.png"/>
+            <file name="coinbase%20id%20verify.png"/>
+            <file name="coinbase%20mobile%20pload.png"/>
+            <file name="coinbase%20phone%20verification.png"/>
+            <file name="coinbase%20preferred%20payment.png"/>
+            <file name="coinbase%20signup.png"/>
+            <file name="coinbase%20test%20deposits.png"/>
+            <file name="coinbase%20test%20example.png"/>
+            <file name="coinbase%20verif%20success.png"/>
+            <file name="coinbase%20webcam.png"/>
+            <file name="coinbase-accountdetails.png"/>
+            <file name="CoinbaseAccount.dita"/>
+            <file name="InsightGreenDITA.xpr"/>
+            <file name="PoloniexAccount.dita"/>
+            <file name="TransferringCurrencies.dita"/>
+        </folder>
+        <folder path="."/>
+    </projectTree>
+</project>
